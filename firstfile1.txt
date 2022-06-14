@@ -4,6 +4,10 @@ new changes came in
 colors
 fruits
 cities
+hyd
+adb
+gaj
+sanj
 
 hyderabad 
 gajularamaram
