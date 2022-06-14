@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello this is sudeep
 new changes came in 
 colors
@@ -8,3 +9,9 @@ hyderabad
 adilabad
 gajularamaram
 
+=======
+kfjsdfjsdgjslkgjskgjslkgjslkg
+
+
+fsdflkdsfj
+>>>>>>> dev1branch
