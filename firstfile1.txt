@@ -4,3 +4,7 @@ colors
 fruits
 cities
 
+hyderabad 
+adilabad
+gajularamaram
+
