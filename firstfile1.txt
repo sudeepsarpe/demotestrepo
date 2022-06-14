@@ -6,12 +6,11 @@ fruits
 cities
 
 hyderabad 
-adilabad
 gajularamaram
-
-=======
-kfjsdfjsdgjslkgjskgjslkgjslkg
+adilabad
 
 
-fsdflkdsfj
->>>>>>> dev1branch
+
+
+
+
