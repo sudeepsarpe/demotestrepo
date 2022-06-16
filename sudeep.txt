@@ -1,5 +1,6 @@
 
 this  is my repo
+<<<<<<< HEAD
 listing the birds
 peacock
 parrot
@@ -12,4 +13,10 @@ cool isnt it
 get well soon
 wefwef
 hello world
+=======
+list of animals
+tiger
+lion
+zebra
+>>>>>>> branch123
 
