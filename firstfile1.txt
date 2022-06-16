@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello this is sudeep
 new changes came in 
+=======
+
+ew changes came in 
+>>>>>>> ranjitha
 colors
 fruits
 cities
